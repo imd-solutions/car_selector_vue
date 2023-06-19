@@ -1,0 +1,11 @@
+// Bulma Import
+@import "./../../node_modules/bulma/bulma.sass";
+
+.inputLabel {
+  color: #272431;
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  text-align: left;
+}
